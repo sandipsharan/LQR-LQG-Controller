@@ -1,10 +1,10 @@
-# PROJECT 2 - ENPM667 - Control of Robotic Systems
+# Implementation of LQR and LQG Controller
 
 ## Project Description:
-The final project deals with mostly with the LQR controller and LQG controller and the subtopics such as Controllability, Observability, Stability and the simulate for the required problem statement
+This project deals with mostly with the LQR controller and LQG controller and the subtopics such as Controllability, Observability, Stability and the simulate for the required problem statement
 
 ## _1. Download the required files_
-Download the given file which is named as 119340196_119402535_Proj2.zip
+Download the given file by cloning it to your local desktop or download it as zip
 Unzip the file and copy them into the local MATLAB workspace
 
 ## _2. Running the MATLAB Scripts_
